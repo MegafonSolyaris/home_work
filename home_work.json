@@ -5,14 +5,14 @@
       "title": "Домашнее задание по математике",
       "description": "Решить задачи из учебника, стр. 25-30",
       "dueDate": "2024-06-10",
-      "pdfUrl": "https://example.com/hw1.pdf"
+      "pdfUrl": "https://axiomabio.com/pdf/test.pdf"
     },
     {
       "id": "hw2",
       "title": "Домашнее задание по физике",
       "description": "Подготовить доклад по теме 'Механика'",
       "dueDate": "2024-06-12",
-      "pdfUrl": "https://example.com/hw2.pdf"
+      "pdfUrl": "https://axiomabio.com/pdf/test.pdf"
     }
   ]
 }
