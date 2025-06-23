@@ -1,20 +1,20 @@
-   {
-     "homeworks": [
-       {
-         "id": "1",
-         "title": "Домашнее задание по математике",
-         "subject": "Математика",
-         "description": "Решить задачи из учебника, стр. 25-30",
-         "dueDate": "2024-06-10",
-         "pdfUrl": "https://example.com/file1.pdf"
-       },
-       {
-         "id": "2",
-         "title": "Домашнее задание по физике",
-         "subject": "Физика",
-         "description": "Подготовить доклад по теме 'Энергия'",
-         "dueDate": "2024-06-12",
-         "pdfUrl": "https://example.com/file2.pdf"
-       }
-     ]
-   }
+{
+  "homeworks": [
+    {
+      "id": "1",
+      "title": "Домашнее задание по математике",
+      "subject": "Математика",
+      "description": "Решить задачи из учебника, стр. 25-30",
+      "dueDate": "2024-06-10",
+      "pdfUrl": "https://example.com/file1.pdf"
+    },
+    {
+      "id": "2",
+      "title": "Домашнее задание по физике",
+      "subject": "Физика",
+      "description": "Подготовить доклад по теме 'Энергия'",
+      "dueDate": "2024-06-12",
+      "pdfUrl": "https://example.com/file2.pdf"
+    }
+  ]
+}
