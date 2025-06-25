@@ -6,7 +6,7 @@
       "subject": "Математика",
       "description": "Решить задачи из учебника, стр. 25-30",
       "dueDate": "2024-06-10",
-      "pdfUrl": "https://example.com/file1.pdf"
+      "pdfUrl": "https://axiomabio.com/pdf/test.pdf"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "subject": "Физика",
       "description": "Подготовить доклад по теме 'Энергия'",
       "dueDate": "2024-06-12",
-      "pdfUrl": "https://example.com/file2.pdf"
+      "pdfUrl": "https://axiomabio.com/pdf/test.pdf"
     }
   ]
 }
